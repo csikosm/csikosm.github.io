@@ -1427,3 +1427,35 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+ol 
+{
+    margin:0px;
+    padding-left:15px;
+}
+
+ol li 
+{
+    margin: 0px;
+    padding: 0px;
+    text-indent: -1em;
+    margin-left: 1em;
+}
+
+ul
+{
+    margin:0;
+    padding-left:30px;
+}
+
+ul li 
+{
+    margin: 0px;
+    padding: 0px;
+    text-indent: 0em;
+    margin-left: -0.5em;
+}
+
+/*ul.a {
+  list-style-type: square;
+}*/
